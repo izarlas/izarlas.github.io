@@ -8,4 +8,4 @@ MIT © Dinesh Pandiyan
 
 ## My landing page
 
-[Visit my landing page]([https://your-username.github.io/my-portfolio/](https://izarlas.github.io/))
+[Visit my landing page](https://izarlas.github.io/)
