@@ -6,4 +6,6 @@ Fork of the repository `https://github.com/flexdinesh/dev-landing-page`
 
 MIT © Dinesh Pandiyan
 
-## Personal landing page accessible at `https://izarlas.github.io/`
+## My landing page
+
+[Visit my landing page]([https://your-username.github.io/my-portfolio/](https://izarlas.github.io/))
